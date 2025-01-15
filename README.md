@@ -1,1 +1,1 @@
-# 365_HomeWork
+# Bayes Exercises
